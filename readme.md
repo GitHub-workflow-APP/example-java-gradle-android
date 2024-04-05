@@ -8,7 +8,7 @@ An example Android project to demonstrate [SourceClear](https://www.sourceclear.
 Clone this project:
 
 ```sh
-git@github.com:srcclr/example-java-gradle-android.git
+git@github.com:srcclr/example-java-gradle-android.gits
 cd example-java-gradle-android
 ```
 
