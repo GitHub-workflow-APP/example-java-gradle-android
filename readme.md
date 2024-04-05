@@ -1,7 +1,7 @@
 
 # [:] Example Android Project.
 
-An example Android project to demonstrate [SourceClear](https://www.sourceclear.com) scans.ss
+An example Android project to demonstrate [SourceClear](https://www.sourceclear.com) scans.sss
 
 ## Try me!
 
